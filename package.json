@@ -1,0 +1,45 @@
+{
+  "name": "serverless-v3-aws-lambda-runtime-schema-override",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=12.0"
+  },
+  "description": "Serverless V3 AWS Lambda Runtime Schema Override Plugin",
+  "author": "François-Michel L'Heureux",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FinchPowers/serverless-v3-aws-lambda-runtime-schema-override"
+  },
+  "keywords": [
+    "serverless",
+    "requirements",
+    "serverless framework plugin",
+    "serverless applications",
+    "serverless plugins",
+    "api gateway",
+    "lambda",
+    "aws",
+    "aws lambda",
+    "amazon",
+    "amazon web services",
+    "serverless.com"
+  ],
+  "files": [
+    "index.js",
+    "LICENSE",
+    "package.json",
+    "README.md"
+  ],
+  "main": "index.js",
+  "bin": {},
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "serverless": "^3.38"
+  }
+}
