@@ -25,7 +25,6 @@ const DEFAULT_RUNTIMES = [
 
 class ServerlessV3AwsLambdaRuntimeSchemaOverride {
   constructor(serverless, cliOptions, v3Utils) {
-    //configValidationMode
     serverless.configSchemaHandler.schema.definitions.awsLambdaRuntime.enum =
       serverless.service.custom?.awsLambdaRuntimeSchemaOverride ?
       serverless.service.custom.awsLambdaRuntimeSchemaOverride :
