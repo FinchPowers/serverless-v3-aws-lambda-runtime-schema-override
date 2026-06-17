@@ -1,4 +1,4 @@
-⚠️This project is minimalist and unmaitained. A better alternative to to stay on
+⚠️This project is minimalist and unmaitained. A better alternative to stay on
   the serverless v3 track is to use [oss-serverless](https://github.com/oss-serverless/osls).
 
 # serverless-v3-aws-lambda-runtime-schema-override
