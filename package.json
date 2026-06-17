@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FinchPowers/serverless-v3-aws-lambda-runtime-schema-override"
+    "url": "git+https://github.com/FinchPowers/serverless-v3-aws-lambda-runtime-schema-override.git"
   },
   "keywords": [
     "serverless",
@@ -32,13 +32,9 @@
     "README.md"
   ],
   "main": "index.js",
-  "bin": {},
-  "scripts": {
-  },
-  "devDependencies": {
-  },
-  "dependencies": {
-  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {},
   "peerDependencies": {
     "serverless": "^3.38"
   }
